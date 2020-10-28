@@ -24,7 +24,7 @@ const Footer = () => (
 					<div className='col-md-6 '>
 						<ul className='list-unstyled list-inline text-center py-2'>
 							<li className='list-inline-item btn btn-danger btn-rounded'>
-								<Link to='/register' className='color-wt'>
+								<Link to='/register'>
 									Contact Us!
 								</Link>
 							</li>
